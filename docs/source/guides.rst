@@ -17,6 +17,7 @@ Guides
     example_ml_iris.ipynb
     example_ml_titanic.ipynb
     example_progressbars.ipynb
+    guides/performance.ipynb
     server.md
 
 .. Vaex-jupyter examples
